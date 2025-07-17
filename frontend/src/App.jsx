@@ -1,7 +1,7 @@
 import React from "react";
 import UserSelector from "./components/UserSelector";
 import AddUser from "./components/AddUser";
-import Leaderboard from "./components/Leaderboard";
+import Leaderboard from "./components/LeaderBoard";
 import ClaimHistory from "./components/ClaimHistory";
 import "./index.css";
 
