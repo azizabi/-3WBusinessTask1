@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: 'Urbanist', sans-serif;
+  background-color: #0f0f0f;
+  color: white;
+}
+
+select, input, button {
+  outline: none;
+}
